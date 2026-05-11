@@ -1,5 +1,3 @@
-python
-
 import streamlit as st
 import secrets
 import time
