@@ -63,4 +63,4 @@ if not st.session_state.spiel_beendet:
             )
 
 else:
-    st.info("Das Spiel ist beendet. Klicke auf **Spiel zurücksetzen**, um neu zu starten.")import streamlit as st
+    st.info("Das Spiel ist beendet. Klicke auf **Spiel zurücksetzen**, um neu zu starten.")
