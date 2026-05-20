@@ -18,7 +18,7 @@ section[data-testid="stSidebar"] {
 </style>
 """, unsafe_allow_html=True)
 
-MAX_ZAHL = 10000000000000000000000000000000
+MAX_ZAHL = 10000000000
 RANKING_LAENGE = 10
 
 st.title("🎲 Extremes Zahlen-Würfelspiel")
